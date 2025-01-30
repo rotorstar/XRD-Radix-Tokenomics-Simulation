@@ -8,6 +8,10 @@ An interactive Next.js application for simulating and visualizing Radix DLT netw
 
 > **⚠️ Disclaimer:** This is a simplified simulation for educational purposes only. Not financial advice. Real-world market conditions are far more complex.
 
+## 📸 Screenshot
+
+![Radix Tokenomics Simulation Screenshot](public/2025-01-29_08-38-49.png)
+
 ## ✨ Key Features
 
 ### 🎛️ Interactive Parameters
