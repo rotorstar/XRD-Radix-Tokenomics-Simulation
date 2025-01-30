@@ -10,7 +10,7 @@ An interactive Next.js application for simulating and visualizing Radix DLT netw
 
 ## 📸 Screenshot
 
-![Radix Tokenomics Simulation Screenshot](public/2025-01-29_08-38-49.png)
+![Radix Tokenomics Simulation Screenshot](radix-simulation-app/public/2025-01-29_08-38-49.png)
 
 ## ✨ Key Features
 
